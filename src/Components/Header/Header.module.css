@@ -1,0 +1,13 @@
+.header{
+    background-color: green;
+grid-area: h;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+ .header img{
+    width: 50px;
+    padding: 10px;
+}
+ .social{
+     padding:20px 0px;
+ }
